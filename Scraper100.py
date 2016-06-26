@@ -1,5 +1,5 @@
 # Scraper 1.0.0
-# AntyZebra 13 May 2016
+# 13 May 2016
 # Simple URL scraper (snipped based on html <body> tag and saved to file)
 
 ### IMPROVEMENT: USER-INPUT URL
